@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-User",
+      "appliesTo": "API/Models/Entities/User.cs",
+      "type": "launch"
+    }
+  ]
+}
